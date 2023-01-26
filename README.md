@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/โชคชัย แจ่มน้อย" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="โชคชัย แจ่มน้อย" height="30" width="40" /></a>
-<a href="https://fb.com/chokchai jamnoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chokchai jamnoi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aofpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aofpa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/โชคชัย-แจ่มน้อย-969bbb261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="โชคชัย แจ่มน้อย" height="30" width="40" /></a>
+<a href="https://fb.com/chokchaichaemnoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chokchai jamnoi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aofpa2756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aofpa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

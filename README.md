@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **SCG-Project**
-
 - 🌱 I’m currently learning **Laravel, React, NodeJS**
 
 - 💬 Ask me about **PHP, SQL, JQUERY**
 
-- 📫 How to reach me **chalongchaith@gmail.com**
+- 📫 How to reach me **chalongchaith@gmail.com หรือ โทร.083-5323829**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
